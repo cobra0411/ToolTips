@@ -1,0 +1,26 @@
+body {
+  font-family: sans-serif;
+}
+.toolTipHeading {
+  text-align: center;
+}
+
+.toolTip {
+  position: absolute;
+  display: inline-block;
+  background-color: slateblue;
+  padding: 15px 30px;
+  visibility: hidden;
+}
+
+.btn {
+  padding: 15px 30px;
+  font-size: 18px;
+  font-weight: 500;
+  background-color: skyblue;
+  border-radius: 15px;
+  border: 2px;
+  display: block;
+  margin: auto;
+  margin-top: 30px;
+}
